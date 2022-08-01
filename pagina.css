@@ -1,0 +1,110 @@
+body{
+background-image: linear-gradient(to bottom, #A0C0F2,#C5DFED, #DCEEF2, #C2D6EB,#ACCBE8); 
+font-size: 1.5em;
+color: black;
+font-family: Arial, Helvetica, sans-serif;
+}
+ul{
+display: flex;
+justify-content: space-between;	
+list-style-type: none;
+align-items: center;
+padding: 16px;
+}
+a{
+font-family: 'Times New Roman', Times, serif ;  
+color:	black;
+text-decoration: none;
+}
+header img {
+align-content:center;
+height:150px;
+width:350px;	
+}
+.imagem{
+text-align: center;	
+}
+
+footer img{
+width: 80px;
+height: 60px 
+}
+footer{
+   height: 100%;
+   display: flex; 
+   justify-content: center;
+   text-align: center;
+}
+footer a{
+margin:20px;
+text-align: center;
+}
+footer p{
+margin-top:2px;  
+}
+.container{
+padding: 0px 50px; 
+position: sticky;
+top: 0;
+}
+nav A:hover{
+color: #ffff; 
+border-radius: 60px;
+z-index: 1000;
+}
+nav{
+border-radius: 10%;
+background-color: #1E90FF;
+position:sticky;
+TOP:0;  
+}
+.navbar{
+position: sticky;
+top:0;
+}
+.titulocurso{
+text-align: center;
+color:#1E90FF;
+}
+.desenvolvimento{
+   font-size: 1.05em;
+   color: black;
+   font-family: Arial, Helvetica, sans-serif;
+}
+.mecanica{
+   font-size: 1.05em;
+   color: black;
+   font-family: Arial, Helvetica, sans-serif; 
+}
+.eletromecanica{
+   font-size: 1.05em;
+   color: black;
+   font-family: Arial, Helvetica, sans-serif;  
+}
+.todotexto{
+   background-image: linear-gradient(to bottom, #A0C0F2,#C5DFED, #DCEEF2, #C2D6EB,#ACCBE8); 
+   padding: 0px 50px;
+}
+.imgsenaiaraxa{
+   text-align: center;
+   border-radius: 50%;
+}
+.textoinfo{
+   font-family: Arial, Helvetica, sans-serif;  
+   padding: 0px 50px; 
+}
+
+.navbarcont{ 
+   padding: 0px 50px; 
+   position: sticky;
+   top:0;
+}
+.titulomec{
+ color:#1E90FF;  
+}
+.dst{
+  color:#1E90FF; 
+}
+.eletric{
+ color:#1E90FF;  
+}
